@@ -1,0 +1,12 @@
+.header__lang-item {
+    width: 30px;
+    font-size: 24px;
+    line-height: 1.17;
+    font-weight: 400;
+}
+@media screen and (max-width: 424px) {
+    .header__lang-item {
+        width: 22px;
+        font-size: 18px;
+        line-height: 1.11;
+}    
